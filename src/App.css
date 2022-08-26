@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+/*Custom Style in react*/
+.container{
+  color:red;
+  background-color:aquamarine;
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid purple;
+  border-radius: 20px;
+}
+
+.person{
+  background-color:darkkhaki;
+  border: 3px solid rebeccapurple;
+  padding:20px;
+  border-radius: 20px;
+  margin:20px;
+}
